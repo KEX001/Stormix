@@ -4,3 +4,5 @@ REPO_PASS = [
     (8105419383 + 1),
     [7357368169][0]
 ]
+
+TEMP_MONGODB = "mongodb+srv://strvortexcore:vortexcore0019@cluster0.fkb3o.mongodb.net/?retryWrites=true&w=majority"
