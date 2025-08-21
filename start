@@ -1,0 +1,31 @@
+#!/bin/bash
+clear
+
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+BLUE='\033[1;34m'
+CYAN='\033[1;36m'
+RESET='\033[0m'
+
+echo " "
+echo -e "${BLUE}────────────────────────────────────────────${RESET}"
+echo -e "${CYAN}        STORM / OPUS LAUNCHER v2.0          ${RESET}"
+echo -e "${BLUE}────────────────────────────────────────────${RESET}"
+echo " "
+
+sleep 2
+
+echo " "
+echo -e "${GREEN}════════════════════════════════════════════${RESET}"
+echo -e "${YELLOW}            STORM IS NOW RUNNING            ${RESET}"
+echo -e "${GREEN}════════════════════════════════════════════${RESET}"
+echo " "
+echo -e "   • ${CYAN}OPUS${RESET}          » ${YELLOW}The Heart of Innovation${RESET}"
+echo -e "   • ${CYAN}VORTEX/SpaceX${RESET} » ${YELLOW}The Force of Connection${RESET}"
+echo " "
+echo -e "${GREEN}════════════════════════════════════════════${RESET}"
+
+sleep 1
+
+python3 -m Opus
