@@ -10,7 +10,7 @@ RESET='\033[0m'
 
 echo " "
 echo -e "${BLUE}────────────────────────────────────────────${RESET}"
-echo -e "${CYAN}        STORM / OPUS LAUNCHER v2.0          ${RESET}"
+echo -e "${CYAN}        STORM / OPUS LAUNCHER v2.1 B        ${RESET}"
 echo -e "${BLUE}────────────────────────────────────────────${RESET}"
 echo " "
 
